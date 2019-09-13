@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Unit 6 | Assignment - What's the Weather Like?
 
+=======
+>>>>>>> b5abe51f7e4b911074c43fd12b165899a16719e1
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
